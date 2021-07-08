@@ -1,0 +1,2445 @@
+<table style="border-collapse:collapse;" cellpadding="8" cellspacing="0" border="0" width="100%"><tr><td colspan="8" align="center"><h3>DAFTAR SEKOLAH</h3></td></tr></table><br><br><table style="border-collapse:collapse;" cellpadding="8" cellspacing="0" border="1" width="100%">
+									<thead>
+						<tr>
+							<th>NPSN</th>
+							<th>Nama Sekolah</th>
+							<th>Alamat</th>
+							<th>Desa/Kelurahan</th>
+							<th>Kecamatan</th>
+							<th>Propinsi</th>
+							<th>Jenjang</th>
+							<th>Status Sekolah</th>
+					</tr>
+					</thead><tbody><tr>
+						<td nowrap align='center'>
+							20342517
+						</td>
+						<td>TK ABA 1 BOROBUDUR</td>
+						<td>SABRANGROWO</td>
+						<td>BOROBUDUR</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69740503
+						</td>
+						<td>TK ABA 2 BANDONGAN</td>
+						<td>BERAN KIDUL</td>
+						<td>Bandongan</td><td>Kec. Bandongan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342519
+						</td>
+						<td>TK ABA 2 CANDIREJO</td>
+						<td>KEDUNGOMBO</td>
+						<td>CANDIREJO</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69740504
+						</td>
+						<td>TK ABA 3 BANDONGAN</td>
+						<td>CAMPURSARI B</td>
+						<td>Gandusari</td><td>Kec. Bandongan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342581
+						</td>
+						<td>TK ABA 3 BOROBUDUR</td>
+						<td>JL. BADRAWATI 3</td>
+						<td>BOROBUDUR</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342523
+						</td>
+						<td>TK ABA 4 JAYAN</td>
+						<td>SYAILENDRA RAYA</td>
+						<td>Borobudur</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342525
+						</td>
+						<td>TK ABA 5 GANJURAN</td>
+						<td>GANJURAN 1</td>
+						<td>Tuksongo</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342587
+						</td>
+						<td>TK ABA 6 MAJAKSINGI</td>
+						<td>KRAJAN</td>
+						<td>MAJAKSINGI</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342946
+						</td>
+						<td>TK ABA AL AHDA PUCUNGREJO</td>
+						<td>SEMALI</td>
+						<td>Pucungrejo</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343019
+						</td>
+						<td>TK ABA BANARAN</td>
+						<td>BANARAN</td>
+						<td>Sedayu</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834705
+						</td>
+						<td>TK ABA CARIKAN</td>
+						<td>CARIKAN</td>
+						<td>GONDOSULI</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342858
+						</td>
+						<td>TK ABA CONGKRANG</td>
+						<td>CONGKRANG</td>
+						<td>Congkrang</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69924105
+						</td>
+						<td>TK ABA GATAK NEPEN</td>
+						<td>NEPEN RT/RW 002/005</td>
+						<td>Gunungpring</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343016
+						</td>
+						<td>TK ABA GUNUNGPRING 3</td>
+						<td>MUTIHAN</td>
+						<td>Gunungpring</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342511
+						</td>
+						<td>TK ABA JETIS</td>
+						<td>JETIS</td>
+						<td>JETIS</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69923791
+						</td>
+						<td>TK ABA KALIBENING</td>
+						<td>JL KRAJAN KALIBENING </td>
+						<td>Kalibening</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342863
+						</td>
+						<td>TK ABA KARASAN</td>
+						<td>KARASAN</td>
+						<td>Keji</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342948
+						</td>
+						<td>TK ABA KAUMAN</td>
+						<td>JL. KARTINI NO.10</td>
+						<td>Muntilan</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342952
+						</td>
+						<td>TK ABA KAWERON</td>
+						<td>KAWERON</td>
+						<td>Muntilan</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342951
+						</td>
+						<td>TK ABA KEJI 1</td>
+						<td>NGABLAK</td>
+						<td>Keji</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342949
+						</td>
+						<td>TK ABA KEJI 2</td>
+						<td>PASEKAN</td>
+						<td>Keji</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342947
+						</td>
+						<td>TK ABA KENDAL GROWONG</td>
+						<td>JL. KH A. DAHLAN 14 MUNTILAN</td>
+						<td>Pucungrejo</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834719
+						</td>
+						<td>TK ABA KROGOWANAN</td>
+						<td>KARANGLO</td>
+						<td>KROGOWANAN</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342908
+						</td>
+						<td>TK ABA MANGUNSARI</td>
+						<td>GLAGAHOMBO</td>
+						<td>MANGUNSARI</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342515
+						</td>
+						<td>TK ABA MARGOYOSO</td>
+						<td>TUBANSARI</td>
+						<td>MARGOYOSO</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343023
+						</td>
+						<td>TK ABA MENAYU</td>
+						<td>MENAYU MUNTILAN</td>
+						<td>Menayu</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342509
+						</td>
+						<td>TK ABA MENOREH</td>
+						<td>ALUN - ALUN</td>
+						<td>MENOREH</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69924069
+						</td>
+						<td>TK ABA NGADIPURO 1</td>
+						<td>KEMBANG</td>
+						<td>Ngadipuro</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343018
+						</td>
+						<td>TK ABA NGAWEN</td>
+						<td>CLAPAR</td>
+						<td>Ngawen</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343020
+						</td>
+						<td>TK ABA PATOSAN</td>
+						<td>JL. TALUN KM.1 PATOSAN</td>
+						<td>Sedayu</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343017
+						</td>
+						<td>TK ABA PONGGOL</td>
+						<td>TAMANAGUNG</td>
+						<td>Tamanagung</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343015
+						</td>
+						<td>TK ABA RANDUKUNING</td>
+						<td>RANDUKUNING</td>
+						<td>Gondosuli</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342897
+						</td>
+						<td>TK ABA SAWANGN</td>
+						<td>NGENTAK</td>
+						<td>SAWANGAN</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342950
+						</td>
+						<td>TK ABA SRIWEDARI</td>
+						<td>SRIWEDARI</td>
+						<td>Sriwedari</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342954
+						</td>
+						<td>TK ABA TAMANAGUNG 1</td>
+						<td>MUNTILAN</td>
+						<td>Tamanagung</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343021
+						</td>
+						<td>TK ABA TAMBAKAN</td>
+						<td>TAMBAKAN</td>
+						<td>Sedayu</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343022
+						</td>
+						<td>TK ABA TANJUNG</td>
+						<td>TANJUNG</td>
+						<td>Tanjung</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342944
+						</td>
+						<td>TK ABA WONOSARI</td>
+						<td>WONOSARI</td>
+						<td>Gunungpring</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343653
+						</td>
+						<td>TK ADISIWI</td>
+						<td>NGADIROJO</td>
+						<td>NGADIROJO</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343247
+						</td>
+						<td>TK AISYIYAH BANYUROTO</td>
+						<td>JL. TEMBUS GERDU PANDANG-KETEP</td>
+						<td>BANYUROTO</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343103
+						</td>
+						<td>TK AISYIYAH BUSTANUL ATHFAL</td>
+						<td>JL. R. ABDULLAH</td>
+						<td>Bandongan</td><td>Kec. Bandongan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69924235
+						</td>
+						<td>TK AISYIYAH INSAN ROBBANI</td>
+						<td>NGADISALAM</td>
+						<td>Gunungpring</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342513
+						</td>
+						<td>TK AISYIYAH KALIABU</td>
+						<td>JAMBLANG</td>
+						<td>Kaliabu</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343091
+						</td>
+						<td>TK AISYIYAH MANGLI</td>
+						<td>MANGLI</td>
+						<td>MANGLI</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834734
+						</td>
+						<td>TK AL FALACH</td>
+						<td>KALEGEN GROGOL</td>
+						<td>PASANGSARI</td><td>Kec. Windusari</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834698
+						</td>
+						<td>TK AL HUSAIN</td>
+						<td>JL JOGJA KM 21 KRAKITAN</td>
+						<td>SUCEN</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69924137
+						</td>
+						<td>TK AL-JAUHAR</td>
+						<td>JL RAYA MAGELANG-JOGJA KM 07</td>
+						<td>Gulon</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20362017
+						</td>
+						<td>TK AT TAQWA</td>
+						<td>JLN. RANJAU WISMA PURNA BHAKTI ABRI JOGONEGORO</td>
+						<td>JOGONEGORO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20356256
+						</td>
+						<td>TK BA PUCANGANOM</td>
+						<td>PUCANGANOM</td>
+						<td>PUCANGANOM</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834736
+						</td>
+						<td>TK BAYU AJI</td>
+						<td>GENITO</td>
+						<td>GENITO</td><td>Kec. Windusari</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834704
+						</td>
+						<td>TK BENTARA WACANA</td>
+						<td>JL. LETTU SUGIARNO 40A</td>
+						<td>Pucungrejo</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343598
+						</td>
+						<td>TK BINA SISWA</td>
+						<td>WONOGIRI</td>
+						<td>WONOGIRI</td><td>Kec. Kajoran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343134
+						</td>
+						<td>TK BUNGA INDAH</td>
+						<td>KUADAAN 2</td>
+						<td>GIRIMULYO</td><td>Kec. Windusari</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834735
+						</td>
+						<td>TK CANDRASIWI</td>
+						<td>LETTU SUBANDI</td>
+						<td>CANDISARI</td><td>Kec. Windusari</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834747
+						</td>
+						<td>TK DHARMA WANITA DONOROJO</td>
+						<td>KLAGEN</td>
+						<td>DONOROJO</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20356257
+						</td>
+						<td>TK DHARMA WANITA KLOPO</td>
+						<td>GONDOLSARI</td>
+						<td>KLOPO</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69933252
+						</td>
+						<td>TK DHARMA WANITA KLOPO 1</td>
+						<td>DSN KLOPO</td>
+						<td>Klopo</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343680
+						</td>
+						<td>TK DHARMA WANITA MANGUNREJO</td>
+						<td>MANGUNREJO</td>
+						<td>MANGUNREJO</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343679
+						</td>
+						<td>TK DHARMA WANITA NGADIREJO</td>
+						<td>DLINGGO</td>
+						<td>NGADIREJO</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343686
+						</td>
+						<td>TK DHARMA WANITA SIDOREJO</td>
+						<td>SURAKAN</td>
+						<td>SIDOREJO</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343687
+						</td>
+						<td>TK DHARMA WANITA TEGALREJO</td>
+						<td>PAHLAWAN MAGELANG</td>
+						<td>Tegalrejo</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834737
+						</td>
+						<td>TK DIAN PERTIWI</td>
+						<td>LETKOL ANTON MISAN NO 33</td>
+						<td>SEMEN</td><td>Kec. Windusari</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20361920
+						</td>
+						<td>TK HIDAYATUL MURTADHO TAMBAKAN</td>
+						<td>LINGKUNGAN MASJID ALMURTADHO TAMBAKAN</td>
+						<td>Sedayu</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342614
+						</td>
+						<td>TK IBNU HAJAR</td>
+						<td>WIRODIGDO KM. 3</td>
+						<td>Sirahan</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834695
+						</td>
+						<td>TK INDRIYASANA</td>
+						<td>KERUG DESA</td>
+						<td>Majaksingi</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834742
+						</td>
+						<td>TK INSAN</td>
+						<td>JL.SECANG-MAGELANG</td>
+						<td>SECANG</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834722
+						</td>
+						<td>TK ISLAM AL MUTTAQIN</td>
+						<td>TRONO</td>
+						<td>Gantang</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20361220
+						</td>
+						<td>TK ISLAM HIDAYATUL ATHFAL</td>
+						<td>DS. NGARGORETNO</td>
+						<td>DS. NGARGORETNO</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342496
+						</td>
+						<td>TK ISLAM PLUS WALADUN SHOLIHUN</td>
+						<td>PARIPURNO</td>
+						<td>PARIPURNO</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69950427
+						</td>
+						<td>TK ISLAM TAHFIDZUL QURAN AL IKHLASH</td>
+						<td>Jl. Tembus Blabak Ketep Km. 11 Tlatar</td>
+						<td>Krogowanan</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343663
+						</td>
+						<td>TK IT AL HIKMAH</td>
+						<td>MADUSARI</td>
+						<td>MADUSARI</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69924139
+						</td>
+						<td>TK IT AL HUDA</td>
+						<td>JL KYAI SENEN SENENG</td>
+						<td>Banyurojo</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343755
+						</td>
+						<td>TK IT AL MADINAH TEMPURAN</td>
+						<td>METESEH-BOROBUDUR KM 2</td>
+						<td>SIDOAGUNG</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343665
+						</td>
+						<td>TK IT AL- MAARUF</td>
+						<td>PLBN TEGALREJO</td>
+						<td>TEGALREJO</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342758
+						</td>
+						<td>TK IT ASSALAM</td>
+						<td>JL. MAYOR HUMAM</td>
+						<td>MERTOYUDAN</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834726
+						</td>
+						<td>TK IT NURUL ILMI</td>
+						<td>BROJOLEPO</td>
+						<td>SUROJOYO</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342861
+						</td>
+						<td>TK IT PELITA HATI</td>
+						<td>PEMUDA BARAT 12A</td>
+						<td>Tamanagung</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343101
+						</td>
+						<td>TK IT QURRATA AYUN</td>
+						<td>JL. RAYA KRAJAN RT 3 / RW 2</td>
+						<td>Bandongan</td><td>Kec. Bandongan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342494
+						</td>
+						<td>TK IT RIYADHUSH SHOLIHIN</td>
+						<td>MENOREH</td>
+						<td>MENOREH</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20360645
+						</td>
+						<td>TK IT YAA BUNAYYA</td>
+						<td>DESA JAMBEWANGI</td>
+						<td>JAMBEWANGI</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69890453
+						</td>
+						<td>TK IT ZAID BIN TSABIT</td>
+						<td>AMBARTAWANG</td>
+						<td>-</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69929648
+						</td>
+						<td>TK IT ZAID BIN TSABIT 2</td>
+						<td>BUMI PRAYUDAN</td>
+						<td>Mertoyudan</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343750
+						</td>
+						<td>TK JOGOYASAN</td>
+						<td>DELES</td>
+						<td>Jogoyasan</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342628
+						</td>
+						<td>TK KANISIUS BINA YOGA DARMA</td>
+						<td>MANDUNGAN</td>
+						<td>BRINGIN</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342586
+						</td>
+						<td>TK KANISIUS BINASARI</td>
+						<td>JL. BALA PUTRA DEWA NO. 8</td>
+						<td>BOROBUDUR</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342924
+						</td>
+						<td>TK KANISIUS KUNCUP MEKAR</td>
+						<td>BRAMAN</td>
+						<td>Ngargomulyo</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342938
+						</td>
+						<td>TK KANISIUS SISWA SIWI</td>
+						<td>JL. SLEKO NO.2 MUNTILAN</td>
+						<td>Sedayu</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342931
+						</td>
+						<td>TK KANISIUS SUMBER</td>
+						<td>SUMBER</td>
+						<td>Sumber</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342762
+						</td>
+						<td>TK KARTIKA III - 9</td>
+						<td>JL. KYAI PUJI</td>
+						<td>BANYUROJO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834740
+						</td>
+						<td>TK KARTIKA III.21</td>
+						<td>PELDA BAHAR SIBARANI</td>
+						<td>JAMBEWANGI</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342761
+						</td>
+						<td>TK KARTIKA XII - 1</td>
+						<td>MERAPI NO 2 PANCA ARGA</td>
+						<td>BANYUROJO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342760
+						</td>
+						<td>TK KARTIKA XII - 2</td>
+						<td>PANDU NO 2 PANCA ARGA</td>
+						<td>BANYUROJO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342759
+						</td>
+						<td>TK KARTIKA XII - 3</td>
+						<td>SINGKEO NO. 1 PANCA ARGA 3</td>
+						<td>BANYUROJO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343121
+						</td>
+						<td>TK KARTINI</td>
+						<td>GUNUNGSARI</td>
+						<td>GUNUNGSARI</td><td>Kec. Windusari</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834739
+						</td>
+						<td>TK KARTINI</td>
+						<td>ELO JETIS</td>
+						<td>PANCURANMAS</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343104
+						</td>
+						<td>TK KUNCUP HARAPAN</td>
+						<td>LETTU SOEBANDI</td>
+						<td>BANJARSARI</td><td>Kec. Windusari</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343673
+						</td>
+						<td>TK KUNCUP MEKAR</td>
+						<td>BENDOLANG</td>
+						<td>NGASEM</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834738
+						</td>
+						<td>TK KUNCUP MEKAR</td>
+						<td>GONDANGREJO</td>
+						<td>GONDANGREJO</td><td>Kec. Windusari</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343652
+						</td>
+						<td>TK LESTARI</td>
+						<td>JL. RAYA GRABAG NO.13</td>
+						<td>KRINCING</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342766
+						</td>
+						<td>TK M PGRI 4 TANJUNG ANOM</td>
+						<td>JL. MAGELANG - PURWOREJO KM 10</td>
+						<td>BANJARNEGORO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343403
+						</td>
+						<td>TK MARDI PENI</td>
+						<td>JAMBU</td>
+						<td>TEMPUREJO</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343241
+						</td>
+						<td>TK MARDISIWI</td>
+						<td>GANTANG </td>
+						<td>Gantang</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343274
+						</td>
+						<td>TK MARDISIWI</td>
+						<td>SURODADI1</td>
+						<td>SURODADI</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342941
+						</td>
+						<td>TK MARSUDIRINI ST THERESIA</td>
+						<td>JL. KARTINI NO.4</td>
+						<td>MUNTILAN</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20356260
+						</td>
+						<td>TK MASITHOH MUSLIMAT NU BANYUDONO</td>
+						<td>BANYUDONO</td>
+						<td>Banyudono</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342942
+						</td>
+						<td>TK MASYITOH MENAYU</td>
+						<td>SOROGENEN</td>
+						<td>Menayu</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342905
+						</td>
+						<td>TK MERBABU</td>
+						<td>BANYUROTO</td>
+						<td>BANYUROTO</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20347822
+						</td>
+						<td>TK MEWARDI SIWI</td>
+						<td>DUSUN BUTUH</td>
+						<td>TEMANGGUNG</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69890452
+						</td>
+						<td>TK MUSLIMAT NU BANYUBIRU</td>
+						<td>CANDILOPO</td>
+						<td>Banyubiru</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343512
+						</td>
+						<td>TK MUSLIMAT NU GROWONG</td>
+						<td>GROWONG</td>
+						<td>GROWONG</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342932
+						</td>
+						<td>TK MUSLIMAT NU KALIBENING</td>
+						<td>CEPEK</td>
+						<td>Kalibening</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342585
+						</td>
+						<td>TK MUSLIMAT NU MASYITOH 18</td>
+						<td>JL. SYAILENDRA RAYA KALIABON</td>
+						<td>Borobudur</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342943
+						</td>
+						<td>TK MUSLIMAT NU PUCUNGREJO</td>
+						<td>SEMAKEN</td>
+						<td>PUCUNGREJO</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342857
+						</td>
+						<td>TK MUSLIMAT NU TAMANAGUNG 1</td>
+						<td>TEJOWARNO</td>
+						<td>Tamanagung</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342854
+						</td>
+						<td>TK MUSLIMAT NU TAMANAGUNG 2</td>
+						<td>KETARON</td>
+						<td>Tamanagung</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342937
+						</td>
+						<td>TK PANGUDI LUHUR ST IGNATIUS</td>
+						<td>JL. KARTINI NO.4</td>
+						<td>MUNTILAN</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342756
+						</td>
+						<td>TK PEMBINA</td>
+						<td>JL. RAMBUTAN X</td>
+						<td>KALINEGORO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Negeri</td></tr><tr>
+						<td nowrap align='center'>
+							20342917
+						</td>
+						<td>TK PERIWI SEWUKAN</td>
+						<td>WUNI</td>
+						<td>Sewukan</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834732
+						</td>
+						<td>TK PERMATA HATI</td>
+						<td>GROGOL INDAH NO.2</td>
+						<td>TANJUNGSARI</td><td>Kec. Windusari</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342907
+						</td>
+						<td>TK PERTIWI</td>
+						<td>BULU</td>
+						<td>PODOSUKO</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834759
+						</td>
+						<td>TK PERTIWI 08 GRABAG</td>
+						<td>BALEAGUNG</td>
+						<td>BALEAGUNG</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342521
+						</td>
+						<td>TK PERTIWI 1</td>
+						<td>UMBUL TIRTO</td>
+						<td>WANUREJO</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342804
+						</td>
+						<td>TK PERTIWI 1 BANJARNEGORO</td>
+						<td>KENTANGAN</td>
+						<td>BANJARNEGORO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342787
+						</td>
+						<td>TK PERTIWI 1 BANYUROJO</td>
+						<td>SENENG</td>
+						<td>BANYUROJO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342810
+						</td>
+						<td>TK PERTIWI 1 KALINEGORO</td>
+						<td>JL. SEMANGKA II PERUM KALINEGORO</td>
+						<td>KALINEGORO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342596
+						</td>
+						<td>TK PERTIWI 1 PLOSOGEDE</td>
+						<td>PLOSO KIDUL</td>
+						<td>Plosogede</td><td>Kec. Ngluwar</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343102
+						</td>
+						<td>TK PERTIWI 1KAB MAGELANG</td>
+						<td>YOS SUDARSO 31 MAGELANG</td>
+						<td>CACABAN</td><td>Kec. Bandongan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342582
+						</td>
+						<td>TK PERTIWI 2</td>
+						<td>WONOJOYO</td>
+						<td>Bigaran</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342807
+						</td>
+						<td>TK PERTIWI 2 KALINEGORO</td>
+						<td>BROMO</td>
+						<td>KALINEGORO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342597
+						</td>
+						<td>TK PERTIWI 2 PLOSOGEDE</td>
+						<td>DRUJU</td>
+						<td>Plosogede</td><td>Kec. Ngluwar</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342757
+						</td>
+						<td>TK PERTIWI 2 SUKOREJO</td>
+						<td>DUSUN BAGONGAN</td>
+						<td>SUKOREJO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342786
+						</td>
+						<td>TK PERTIWI 3 BANYUROJO</td>
+						<td>SARAGAN</td>
+						<td>BANYUROJO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342802
+						</td>
+						<td>TK PERTIWI 3 KALINEGORO</td>
+						<td>MALIYAN</td>
+						<td>KALINEGORO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342583
+						</td>
+						<td>TK PERTIWI 3 NGADIHARJO</td>
+						<td>NGADIHARJO</td>
+						<td>Ngadiharjo</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342591
+						</td>
+						<td>TK PERTIWI 4</td>
+						<td>GIRIPURNO</td>
+						<td>GIRIPURNO</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342783
+						</td>
+						<td>TK PERTIWI 4 BANYUROJO</td>
+						<td>SEKAR KEMUNING</td>
+						<td>BANYUROJO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342476
+						</td>
+						<td>TK PERTIWI AMONG PUTRO</td>
+						<td>BRENGKEL 1</td>
+						<td>SALAMAN</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343093
+						</td>
+						<td>TK PERTIWI BANDONGAN 1</td>
+						<td>JL. KYAI AROF</td>
+						<td>BANDONGAN</td><td>Kec. Bandongan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343094
+						</td>
+						<td>TK PERTIWI BANDONGAN 2</td>
+						<td>KLIWONAN- WONOLELO</td>
+						<td>BANDONGAN</td><td>Kec. Bandongan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343092
+						</td>
+						<td>TK PERTIWI BANDONGAN 3</td>
+						<td>JL. MENDAK</td>
+						<td>BANYUWANGI</td><td>Kec. Bandongan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343747
+						</td>
+						<td>TK PERTIWI BANDUNGREJO NGABLAK</td>
+						<td>BANDUNGREJO</td>
+						<td>Bandungrejo</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343113
+						</td>
+						<td>TK PERTIWI BANGUN SARI</td>
+						<td>LETKOL ANTON NISAN</td>
+						<td>UMBULSARI</td><td>Kec. Windusari</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342925
+						</td>
+						<td>TK PERTIWI BANYUBIRU</td>
+						<td>BANYUBIRU</td>
+						<td>BANYUBIRU</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20360593
+						</td>
+						<td>TK PERTIWI BANYUROJO II</td>
+						<td>KRANGGAN</td>
+						<td>BANYUROJO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343683
+						</td>
+						<td>TK PERTIWI BANYUSARI</td>
+						<td>BANYUSARI</td>
+						<td>BANYUSARI</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69890461
+						</td>
+						<td>TK PERTIWI BANYUURIP</td>
+						<td>PLUMBON</td>
+						<td>-</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834725
+						</td>
+						<td>TK PERTIWI BATEH</td>
+						<td>PAGER</td>
+						<td>Bateh</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342617
+						</td>
+						<td>TK PERTIWI BATURONO</td>
+						<td>WIRONO</td>
+						<td>Baturono</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342910
+						</td>
+						<td>TK PERTIWI BENYUADEM</td>
+						<td>TROLIKAM</td>
+						<td>BANYUADEM</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342489
+						</td>
+						<td>TK PERTIWI BINA PUTRA</td>
+						<td>NGAMPELDENTO</td>
+						<td>NGAMPELDENTO</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342763
+						</td>
+						<td>TK PERTIWI BINA SISWA</td>
+						<td>GLAGAH</td>
+						<td>BANJARNEGORO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342598
+						</td>
+						<td>TK PERTIWI BLONGKENG</td>
+						<td>KARANGASEM</td>
+						<td>Blongkeng</td><td>Kec. Ngluwar</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342599
+						</td>
+						<td>TK PERTIWI BLONGKENG 2</td>
+						<td>BLONGKENG</td>
+						<td>Blongkeng</td><td>Kec. Ngluwar</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342889
+						</td>
+						<td>TK PERTIWI BOJONG</td>
+						<td>KARANG GONDANG</td>
+						<td>BOJONG</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343027
+						</td>
+						<td>TK PERTIWI BONDOWOSO</td>
+						<td>PERMITAN</td>
+						<td>BONDOWOSO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343245
+						</td>
+						<td>TK PERTIWI BUTUH</td>
+						<td>BUTUH WETAN</td>
+						<td>Butuh</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343282
+						</td>
+						<td>TK PERTIWI CANDIMULYO</td>
+						<td>CANDIMULYO</td>
+						<td>CANDIMULYO</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20361906
+						</td>
+						<td>TK PERTIWI CANDISARI</td>
+						<td>JL. PUCANG-GRABAG CANDISARI SECANG</td>
+						<td>CANDISARI</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343026
+						</td>
+						<td>TK PERTIWI DANUREJO</td>
+						<td>BRONTOKAN</td>
+						<td>DANUREJO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343685
+						</td>
+						<td>TK PERTIWI DLIMAS</td>
+						<td>DLIMAS</td>
+						<td>DLIMAS</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342926
+						</td>
+						<td>TK PERTIWI DUKUN 1</td>
+						<td>TEGALSARI</td>
+						<td>Dukun</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342923
+						</td>
+						<td>TK PERTIWI DUKUN 2</td>
+						<td>MUSUK</td>
+						<td>Dukun</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342922
+						</td>
+						<td>TK PERTIWI DUKUN 3</td>
+						<td>KEMIRIOMBO</td>
+						<td>Dukun</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834746
+						</td>
+						<td>TK PERTIWI GEGER</td>
+						<td>GEGER</td>
+						<td>GIRIREJO</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343513
+						</td>
+						<td>TK PERTIWI GEMILANG</td>
+						<td>JARAKAN</td>
+						<td>JARAKAN</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343754
+						</td>
+						<td>TK PERTIWI GENIKAN NGABLAK</td>
+						<td>GENIKAN</td>
+						<td>GENIKAN</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343664
+						</td>
+						<td>TK PERTIWI GIRIKULON</td>
+						<td>TEMPURAN</td>
+						<td>GIRIKULON</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343669
+						</td>
+						<td>TK PERTIWI GIRIREJO</td>
+						<td>SOBOKARANG</td>
+						<td>GIRIREJO</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343751
+						</td>
+						<td>TK PERTIWI GIRIREJO 2 NGABLAK</td>
+						<td>SRI GADING</td>
+						<td>GRIRIREJO</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343749
+						</td>
+						<td>TK PERTIWI GIRIREJO NGABLAK</td>
+						<td>GOGIK</td>
+						<td>GIRIREJO</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343289
+						</td>
+						<td>TK PERTIWI GIYANTI</td>
+						<td>GIYANTI</td>
+						<td>GIYANTI</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343684
+						</td>
+						<td>TK PERTIWI GLAGAH OMBO</td>
+						<td>KEMIRI</td>
+						<td>GLAGAH OMBO</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342898
+						</td>
+						<td>TK PERTIWI GONDOWANGI</td>
+						<td>BEDOGAN</td>
+						<td>Gondowangi</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342625
+						</td>
+						<td>TK PERTIWI GULON 1</td>
+						<td>MANCASAN</td>
+						<td>Gulon</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342624
+						</td>
+						<td>TK PERTIWI GULON 2</td>
+						<td>LEGOK</td>
+						<td>Gulon</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342623
+						</td>
+						<td>TK PERTIWI GULON 4</td>
+						<td>NGASEM</td>
+						<td>Gulon</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342935
+						</td>
+						<td>TK PERTIWI GUNUNGPRING</td>
+						<td>JL. SANTRI KM.1 GUNUNGPRING</td>
+						<td>Gunungpring</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343731
+						</td>
+						<td>TK PERTIWI I GRABAG</td>
+						<td>KRAJAN</td>
+						<td>GRABAG</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343581
+						</td>
+						<td>TK PERTIWI I SAMBAK</td>
+						<td>SAMBAK</td>
+						<td>SAMBAK</td><td>Kec. Kajoran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343732
+						</td>
+						<td>TK PERTIWI II GRABAG</td>
+						<td>KALIKUTO</td>
+						<td>KALIKUTO</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342904
+						</td>
+						<td>TK PERTIWI II KAPUHAN</td>
+						<td>JL. TEMBUS MAGELANG-BOYOLALI KM 13</td>
+						<td>KAPUHAN</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343587
+						</td>
+						<td>TK PERTIWI II SAMBAK</td>
+						<td>SAMBAK</td>
+						<td>SAMBAK</td><td>Kec. Kajoran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343733
+						</td>
+						<td>TK PERTIWI III GRABAG</td>
+						<td>SUTIWI PANDAK</td>
+						<td>LEBAK</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343734
+						</td>
+						<td>TK PERTIWI IV GRABAG</td>
+						<td>TELAGA BLEDER</td>
+						<td>NGASINAN</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834755
+						</td>
+						<td>TK Pertiwi IX Grabag</td>
+						<td>Dsn. Krajan Ds. Pucungsari Kec. Grabag Kab. Magelang</td>
+						<td>PUCUNGSARI</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342603
+						</td>
+						<td>TK PERTIWI JAMUS</td>
+						<td>JAMUSKAUMAN</td>
+						<td>Jamuskauman</td><td>Kec. Ngluwar</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343681
+						</td>
+						<td>TK PERTIWI JAPAN</td>
+						<td>JAPAN</td>
+						<td>JAPAN</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343237
+						</td>
+						<td>TK PERTIWI JATI 2</td>
+						<td>KAPING</td>
+						<td>JATI</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343748
+						</td>
+						<td>TK PERTIWI JOGONAYAN NGABLAK</td>
+						<td>JOGONAYAN</td>
+						<td>JOGONAYAN</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342619
+						</td>
+						<td>TK PERTIWI JUMOYO 4</td>
+						<td>WIRONAYAN</td>
+						<td>JUMOYO</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342607
+						</td>
+						<td>TK PERTIWI KADILUWIH</td>
+						<td>NGLUWAR KM. 1 KUDUS</td>
+						<td>KADILUWIH</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342505
+						</td>
+						<td>TK PERTIWI KALIABU</td>
+						<td>KALIABU</td>
+						<td>Kaliabu</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343608
+						</td>
+						<td>TK PERTIWI KALIANGKRIK</td>
+						<td>JL. LETTU WAKIDI</td>
+						<td>KALIANGKRIK</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342497
+						</td>
+						<td>TK PERTIWI KALISALAK</td>
+						<td>KALISALAK</td>
+						<td>KALISALAK</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343050
+						</td>
+						<td>TK PERTIWI KALISARI 1</td>
+						<td>SOEDIRO</td>
+						<td>Mertoyudan</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342883
+						</td>
+						<td>TK PERTIWI KALIURANG I</td>
+						<td>JRAKAH</td>
+						<td>KALIURANG</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342879
+						</td>
+						<td>TK PERTIWI KAMONGAN</td>
+						<td>JL. KYAI KASAN ALI</td>
+						<td>KAMONGAN</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342608
+						</td>
+						<td>TK PERTIWI KANGKUNGAN</td>
+						<td>KADILUWIH</td>
+						<td>Kadiluwih</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342899
+						</td>
+						<td>TK PERTIWI KAPUHAN</td>
+						<td>KAPUHAN</td>
+						<td>Kapuhan</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69926891
+						</td>
+						<td>TK PERTIWI KEBONREJO</td>
+						<td>KEBONREJO</td>
+						<td>Kebonrejo</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342945
+						</td>
+						<td>TK PERTIWI KEJI</td>
+						<td>KEJI</td>
+						<td>Keji</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343291
+						</td>
+						<td>TK PERTIWI KEMBARAN</td>
+						<td>JL. CANDIMULYO-BLABAK</td>
+						<td>Kembaran</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834753
+						</td>
+						<td>TK PERTIWI KENALAN</td>
+						<td>KENALAN</td>
+						<td>KENALAN</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342927
+						</td>
+						<td>TK PERTIWI KETUNGGENG</td>
+						<td>KETUNGGENG</td>
+						<td>Ketunggeng</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342885
+						</td>
+						<td>TK PERTIWI KRADENAN II</td>
+						<td>TEGALANCAR</td>
+						<td>Kradenan</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342913
+						</td>
+						<td>TK PERTIWI KRADENAN III</td>
+						<td>SRUMBUNG NGISORI</td>
+						<td>KRADENAN</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342610
+						</td>
+						<td>TK PERTIWI KRAKITAN</td>
+						<td>TEGALREJO</td>
+						<td>Sirahan</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342499
+						</td>
+						<td>TK PERTIWI KRASAK</td>
+						<td>KRASAK</td>
+						<td>KRASAK</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69939000
+						</td>
+						<td>TK PERTIWI KREMBYUNGAN</td>
+						<td>KREMBYUNGAN</td>
+						<td>Ketundan</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342928
+						</td>
+						<td>TK PERTIWI KRINJING</td>
+						<td>PGM BABADAN KM. 5</td>
+						<td>Krinjing</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343589
+						</td>
+						<td>TK PERTIWI KUWADERAN</td>
+						<td>JL. MAGELANG-SAPURAN KM19</td>
+						<td>KUWADERAN</td><td>Kec. Kajoran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343651
+						</td>
+						<td>TK PERTIWI MADUSARI</td>
+						<td>KEMBANGAN NO.3</td>
+						<td>MADUSARI</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20360633
+						</td>
+						<td>TK PERTIWI MADYOGONDO 2</td>
+						<td>KRAGON</td>
+						<td>MADYOGONDO</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343741
+						</td>
+						<td>TK PERTIWI MADYOGONDO NGABLAK</td>
+						<td>MADYOGONDO</td>
+						<td>MADYOGONDO</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342901
+						</td>
+						<td>TK PERTIWI MANGUNSARI</td>
+						<td>MRANGGEN</td>
+						<td>Mangunsari</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342918
+						</td>
+						<td>TK PERTIWI MANGUNSOKO</td>
+						<td>BENDO</td>
+						<td>MANGUNSOKO</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342606
+						</td>
+						<td>TK PERTIWI MANTINGAN</td>
+						<td>MADON</td>
+						<td>MANTINGAN</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342507
+						</td>
+						<td>TK PERTIWI MARGOYOSO</td>
+						<td>JL. PURWOREJO - MAGELANG KM.23</td>
+						<td>MARGOYOSO</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343251
+						</td>
+						<td>TK PERTIWI MEIJING I</td>
+						<td>PISANGAN</td>
+						<td>Mejing</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343259
+						</td>
+						<td>TK PERTIWI MEIJING II</td>
+						<td>SEMEN</td>
+						<td>MEIJING</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342891
+						</td>
+						<td>TK PERTIWI MENDUT</td>
+						<td>JL. MAYOR KUSEN</td>
+						<td>Mendut</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342491
+						</td>
+						<td>TK PERTIWI MENOREH</td>
+						<td>BETENG</td>
+						<td>Menoreh</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343030
+						</td>
+						<td>TK PERTIWI MERTOYUDAN 2</td>
+						<td>PRAJENAN</td>
+						<td>MERTOYUDAN</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343029
+						</td>
+						<td>TK PERTIWI MERTOYUDAN 3</td>
+						<td>SOKA</td>
+						<td>MERTOYUDAN</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342881
+						</td>
+						<td>TK PERTIWI MRANGGEN II</td>
+						<td>MRANGGEN</td>
+						<td>MRANGGEN</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342933
+						</td>
+						<td>TK PERTIWI MUNTILAN 2</td>
+						<td>JL. DR.SUTOMO NO.10</td>
+						<td>Muntilan</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342887
+						</td>
+						<td>TK PERTIWI NGABLAK</td>
+						<td>PURWOSARI</td>
+						<td>NGABLAK</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343742
+						</td>
+						<td>TK PERTIWI NGABLAK 1</td>
+						<td>GRABAG- NGABLAK</td>
+						<td>NGABLAK</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343743
+						</td>
+						<td>TK PERTIWI NGABLAK 2</td>
+						<td>GRABAG-NGABLAK</td>
+						<td>NGABLAK</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342930
+						</td>
+						<td>TK PERTIWI NGARGOMULYO</td>
+						<td>KEMBANG</td>
+						<td>Ngargomulyo</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342936
+						</td>
+						<td>TK PERTIWI NGAWEN</td>
+						<td>NGAWEN</td>
+						<td>Ngawen</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343612
+						</td>
+						<td>TK PERTIWI NGAWONGGO II</td>
+						<td>JL. SILIWANGI</td>
+						<td>NGAWONGGO</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20360588
+						</td>
+						<td>TK PERTIWI NGEPANREJO</td>
+						<td>KRAJAN</td>
+						<td>NGEPANREJO</td><td>Kec. Bandongan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342604
+						</td>
+						<td>TK PERTIWI NGLUWAR</td>
+						<td>JL. KYAI RADEN SAHID</td>
+						<td>Ngluwar</td><td>Kec. Ngluwar</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343746
+						</td>
+						<td>TK PERTIWI PAGERGUNUNG NGABLAK</td>
+						<td>GRABAG-NGABLAK KM 7</td>
+						<td>PAGERGUNUNG</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343688
+						</td>
+						<td>TK PERTIWI PAKIS</td>
+						<td>PAKIS TENGAH</td>
+						<td>PAKIS</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342601
+						</td>
+						<td>TK PERTIWI PAKUNDEN 1</td>
+						<td>GULING</td>
+						<td>Pakunden</td><td>Kec. Ngluwar</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342602
+						</td>
+						<td>TK PERTIWI PAKUNDEN 2</td>
+						<td>GONDANGAN</td>
+						<td>Pakunden</td><td>Kec. Ngluwar</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343745
+						</td>
+						<td>TK PERTIWI PANDEAN 1 NGABLAK</td>
+						<td>PANDEAN</td>
+						<td>PANDEAN</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343753
+						</td>
+						<td>TK PERTIWI PANDEAN 2 NGABLAK</td>
+						<td>WONOLOBO</td>
+						<td>PANDEAN</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343025
+						</td>
+						<td>TK PERTIWI PASURUHAN</td>
+						<td>GENTAN</td>
+						<td>PASURUHAN</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343295
+						</td>
+						<td>TK PERTIWI PODOSOKO</td>
+						<td>GLAGAHOMBO</td>
+						<td>PODOSOKO</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834752
+						</td>
+						<td>TK PERTIWI POGALAN</td>
+						<td>KEDITAN</td>
+						<td>POGALAN</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343675
+						</td>
+						<td>TK PERTIWI PURWODADI</td>
+						<td>PURWODADI</td>
+						<td>PURWODADI</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343677
+						</td>
+						<td>TK PERTIWI PURWOSARI</td>
+						<td>NUREN</td>
+						<td>Banyuurip</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342892
+						</td>
+						<td>TK PERTIWI RAMBEANAK</td>
+						<td>JETIS</td>
+						<td>Rambeanak</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343572
+						</td>
+						<td>TK PERTIWI RINGIN ANOM</td>
+						<td>RINGIN ANOM</td>
+						<td>RINGIN ANOM</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342611
+						</td>
+						<td>TK PERTIWI SALAM</td>
+						<td>JL. MAGELANG KM. 20 SALAM</td>
+						<td>SALAM</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342480
+						</td>
+						<td>TK PERTIWI SARI MULYO</td>
+						<td>JL. MAGELANG - PURWOREJO</td>
+						<td>SIDOMULYO</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342906
+						</td>
+						<td>TK PERTIWI SAWANGAN</td>
+						<td>JL. TEMBUS BOYOLALI KM 8</td>
+						<td>Sawangan</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342501
+						</td>
+						<td>TK PERTIWI SAWANGARGO</td>
+						<td>NGABEYAN</td>
+						<td>SAWANGARGO</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342893
+						</td>
+						<td>TK PERTIWI SAWITAN</td>
+						<td>JL. LETNAN TUKIYAT</td>
+						<td>SAWITAN</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342916
+						</td>
+						<td>TK PERTIWI SEKAR MERAPI</td>
+						<td>KENINGAR</td>
+						<td>Keningar</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342622
+						</td>
+						<td>TK PERTIWI SELOBORO 1</td>
+						<td>KRAPYAK</td>
+						<td>Seloboro</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342620
+						</td>
+						<td>TK PERTIWI SELOBORO 2</td>
+						<td>TRAYEM</td>
+						<td>Seloboro</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342929
+						</td>
+						<td>TK PERTIWI SENGI 1</td>
+						<td>NGAMPEL</td>
+						<td>SENGI</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342919
+						</td>
+						<td>TK PERTIWI SENGI 2</td>
+						<td>GOWOK POS</td>
+						<td>Sengi</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343562
+						</td>
+						<td>TK PERTIWI SIDOAGUNG</td>
+						<td>SIDOAGUNG</td>
+						<td>SIDOAGUNG</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343267
+						</td>
+						<td>TK PERTIWI SIDOMULYO</td>
+						<td>SIDOMULYO</td>
+						<td>Sidomulyo</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69924048
+						</td>
+						<td>TK PERTIWI SIDOREJO</td>
+						<td>Jelapan,Sidorejo Bandongan</td>
+						<td>Sidorejo</td><td>Kec. Bandongan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342629
+						</td>
+						<td>TK PERTIWI SIKEPAN 2</td>
+						<td>SIKEPAN</td>
+						<td>BRINGIN</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342915
+						</td>
+						<td>TK PERTIWI SIKEPAN I</td>
+						<td>JL. SOKA KM.5</td>
+						<td>BRINGIN</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342605
+						</td>
+						<td>TK PERTIWI SIRAHAN</td>
+						<td>WIRODIGDO</td>
+						<td>Sirahan</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342594
+						</td>
+						<td>TK PERTIWI SOMOKATON 1</td>
+						<td>CANGGALAN</td>
+						<td>Somokaton</td><td>Kec. Ngluwar</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342595
+						</td>
+						<td>TK PERTIWI SOMOKATON 2</td>
+						<td>KRICAAN</td>
+						<td>Somokaton</td><td>Kec. Ngluwar</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342618
+						</td>
+						<td>TK PERTIWI SOMOKETRO</td>
+						<td>JL. RAYA NGLUWAR KM. 1</td>
+						<td>Somoketro</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342592
+						</td>
+						<td>TK PERTIWI SONOREJO</td>
+						<td>JL. CANDIMULYO - PETUNG</td>
+						<td>Sonorejo</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834744
+						</td>
+						<td>TK PERTIWI SOROYUDAN</td>
+						<td>SOROYUDAN</td>
+						<td>SOROYUDAN</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342498
+						</td>
+						<td>TK PERTIWI SRIWEDARI</td>
+						<td>SRIWEDARI</td>
+						<td>SRIWEDARI</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342886
+						</td>
+						<td>TK PERTIWI SRUMBUNG</td>
+						<td>JOYONINGRAT</td>
+						<td>SRUMBUNG</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342909
+						</td>
+						<td>TK PERTIWI SRUMBUNG II</td>
+						<td>JL. JOYONINGRAT KM.4</td>
+						<td>SRUMBUNG</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343682
+						</td>
+						<td>TK PERTIWI SUKOREJO</td>
+						<td>TEGALRANDU</td>
+						<td>SUKOREJO</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342797
+						</td>
+						<td>TK PERTIWI SUKOREJO 1</td>
+						<td>SUKOREJO</td>
+						<td>SUKOREJO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343740
+						</td>
+						<td>TK PERTIWI SUMBEREJO NGABLAK</td>
+						<td>SUMBEREJO</td>
+						<td>SUMBEREJO</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343028
+						</td>
+						<td>TK PERTIWI SUMBERREJO</td>
+						<td>KEMBANGAN</td>
+						<td>SUMBERREJO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343286
+						</td>
+						<td>TK PERTIWI SUROJOYO</td>
+						<td>SUROJOYO</td>
+						<td>SUROJOYO</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342934
+						</td>
+						<td>TK PERTIWI TAMANAGUNG</td>
+						<td>JL. TENTARA PELAJAR NGLAWISAN</td>
+						<td>Tamanagung</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343671
+						</td>
+						<td>TK PERTIWI TAMPINGAN</td>
+						<td>TAMPINGAN</td>
+						<td>TAMPINGAN</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343305
+						</td>
+						<td>TK PERTIWI TAMPIR WETAN</td>
+						<td>TAMPIRWETAN</td>
+						<td>Tampirwetan</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343299
+						</td>
+						<td>TK PERTIWI TAMPIRKULON I</td>
+						<td>TAMPIRKULON</td>
+						<td>TAMPIRKULON</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343302
+						</td>
+						<td>TK PERTIWI TAMPIRKULON II</td>
+						<td>JETIS TAMPIRKULON</td>
+						<td>Tampirkulon</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343293
+						</td>
+						<td>TK PERTIWI TEGALSARI</td>
+						<td>TEGALSARI</td>
+						<td>Tegalsari</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343744
+						</td>
+						<td>TK PERTIWI TEJOSARI</td>
+						<td>JL. NGABLAK- MAGELANG</td>
+						<td>TEJOSARI</td><td>Kec. Ngablak</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343511
+						</td>
+						<td>TK PERTIWI TEMANGGAL</td>
+						<td>TEMANGGAL</td>
+						<td>TEMANGGAL</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343090
+						</td>
+						<td>TK PERTIWI TEMANGGUNG</td>
+						<td>JL.RAYA GATUKAN KM.2</td>
+						<td>Temanggung</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342589
+						</td>
+						<td>TK PERTIWI TEMBELANG</td>
+						<td>TEMBELANG</td>
+						<td>Tembelang</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343308
+						</td>
+						<td>TK PERTIWI TEMPAK</td>
+						<td>TEMPAK</td>
+						<td>Tempak</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342615
+						</td>
+						<td>TK PERTIWI TERSANGEDE 1</td>
+						<td>MEDANGAN</td>
+						<td>Tersangede</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342616
+						</td>
+						<td>TK PERTIWI TERSANGEDE 2</td>
+						<td>KETONGGO</td>
+						<td>Tersangede</td><td>Kec. Salam</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343307
+						</td>
+						<td>TK PERTIWI TRENTEN</td>
+						<td>TRENTEN</td>
+						<td>Trenten</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343736
+						</td>
+						<td>TK PERTIWI V GRABAG</td>
+						<td>JLN PASANGGRAHAN</td>
+						<td>Tirto</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343737
+						</td>
+						<td>TK PERTIWI VI GRABAG</td>
+						<td>JL. COKRO KM 1 GRABAG</td>
+						<td>GRABAG</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343738
+						</td>
+						<td>TK PERTIWI VII GRABAG</td>
+						<td>SEKAR LANGIT</td>
+						<td>SEKAR LANGIT</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342920
+						</td>
+						<td>TK PERTIWI WATES</td>
+						<td>SEMPON</td>
+						<td>Wates</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343108
+						</td>
+						<td>TK PERTIWI WINDU MEKAR</td>
+						<td>LETNAN SUBANDI NO.8 WINDUSARI</td>
+						<td>NGADIGUNUNG</td><td>Kec. Windusari</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69890455
+						</td>
+						<td>TK PERTIWI WUWUHARJO</td>
+						<td>JL Mangklong- Sapuran</td>
+						<td>-</td><td>Kec. Kajoran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834760
+						</td>
+						<td>TK PERTIWI X</td>
+						<td>KRAJAN II</td>
+						<td>KARTOHARJO</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834756
+						</td>
+						<td>TK PERTIWI XI GRABAG</td>
+						<td>PESIDI</td>
+						<td>PESIDI</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342866
+						</td>
+						<td>TK PGRI AMBARTAWANG</td>
+						<td>AMBARTAWANG</td>
+						<td>AMBARTAWANG</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834731
+						</td>
+						<td>TK PGRI AMONG SIWI</td>
+						<td>KYAI MARSAN</td>
+						<td>ADIPURO</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69890462
+						</td>
+						<td>TK PGRI BAKTI KARYA DALEMAN KIDUL 2</td>
+						<td>JLN. CANDIMULYO-POGALAN KM. 9 DALEMAN KIDUL</td>
+						<td>-</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343621
+						</td>
+						<td>TK PGRI BALEKERTO</td>
+						<td>Jl.Beseran salam kanci Dusun mlilir</td>
+						<td>Balekerto</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343095
+						</td>
+						<td>TK PGRI BANDONGAN 1</td>
+						<td>PAINGAN</td>
+						<td>Kedungsari</td><td>Kec. Bandongan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343097
+						</td>
+						<td>TK PGRI BANDONGAN 2</td>
+						<td>MEDONO</td>
+						<td>TRASAN</td><td>Kec. Bandongan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343641
+						</td>
+						<td>TK PGRI BAWANG</td>
+						<td>JL. MAGELANG-KOPENG KM 16</td>
+						<td>BAWANG</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342867
+						</td>
+						<td>TK PGRI BLONDO</td>
+						<td>JL. MAGELANG-YOGYAKARTA</td>
+						<td>BLONDO</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342627
+						</td>
+						<td>TK PGRI BRINGIN</td>
+						<td>GRANTINGAN</td>
+						<td>BRINGIN</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834709
+						</td>
+						<td>TK PGRI BUMIREJO I</td>
+						<td>JL. SOEKARNO HATTA DROJOGAN</td>
+						<td>BUMIREJO</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342869
+						</td>
+						<td>TK PGRI BUMIREJO II</td>
+						<td>JL. LETNAN TUKIYAT</td>
+						<td>BUMIREJO</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834751
+						</td>
+						<td>TK PGRI DALEMAN KIDUL I</td>
+						<td>DALEMAN KIDUL</td>
+						<td>DALEMAN KIDUL</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342767
+						</td>
+						<td>TK PGRI DEYANGAN 2</td>
+						<td>JL. MAYOR UNUS</td>
+						<td>DEYANGAN</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342765
+						</td>
+						<td>TK PGRI DEYANGAN 4</td>
+						<td>JL. MAYOR UNUS</td>
+						<td>DEYANGAN</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834748
+						</td>
+						<td>TK PGRI DHARMA WIYATA</td>
+						<td>PETUNG KIDUL</td>
+						<td>PETUNG</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342780
+						</td>
+						<td>TK PGRI DONOROJO</td>
+						<td>KROMBANGAN</td>
+						<td>DONOROJO</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342921
+						</td>
+						<td>TK PGRI DUKUN</td>
+						<td>GARUNG</td>
+						<td>Dukun</td><td>Kec. Dukun</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343631
+						</td>
+						<td>TK PGRI GIRIWARNO</td>
+						<td>JL. KALIANGKRIK-KAJORAN</td>
+						<td>GIRIWARNO</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342873
+						</td>
+						<td>TK PGRI GONDANG</td>
+						<td>KRAMAT</td>
+						<td>GONDANG</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343639
+						</td>
+						<td>TK PGRI GONDANGSARI</td>
+						<td>BABADAN</td>
+						<td>GONDANGSARI</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343724
+						</td>
+						<td>TK PGRI GRABAG IV</td>
+						<td>COKRO</td>
+						<td>COKRO</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20356272
+						</td>
+						<td>TK PGRI I GRABAG</td>
+						<td>KOMPLEK SDN GRABAG I</td>
+						<td>GRABAG</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343723
+						</td>
+						<td>TK PGRI II GRABAG</td>
+						<td>SUSUKAN</td>
+						<td>GRABAG</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343722
+						</td>
+						<td>TK PGRI III GRABAG</td>
+						<td>KOMPLEK SDN GRABAG I</td>
+						<td>KLETERAN</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343729
+						</td>
+						<td>TK PGRI IX GRABAG</td>
+						<td>KETAWANG</td>
+						<td>KETAWANG</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342880
+						</td>
+						<td>TK PGRI JERUKAGUNG</td>
+						<td>JL. SUPONO</td>
+						<td>JERUKAGUNG</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343637
+						</td>
+						<td>TK PGRI KAJANGKOSO</td>
+						<td>KAJANGKOSO</td>
+						<td>KAJANGKOSO</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69890459
+						</td>
+						<td>TK PGRI KALIJOSO</td>
+						<td>JLARANG</td>
+						<td>-</td><td>Kec. Windusari</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343565
+						</td>
+						<td>TK PGRI KALISARI</td>
+						<td>KALISARI</td>
+						<td>KALISARI</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342912
+						</td>
+						<td>TK PGRI KALIURANG II</td>
+						<td>KALIURANG</td>
+						<td>KALIURANG</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343690
+						</td>
+						<td>TK PGRI KAPONAN</td>
+						<td>MAGELANG - KOPENG KM.21</td>
+						<td>KAPONAN</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342593
+						</td>
+						<td>TK PGRI KARTIKA</td>
+						<td>KAMAL</td>
+						<td>Giritengah</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343649
+						</td>
+						<td>TK PGRI KEMBANG KUNING</td>
+						<td>BANDONGAN - WINDUSARI</td>
+						<td>KEMBANGKUNING</td><td>Kec. Windusari</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834728
+						</td>
+						<td>TK PGRI KETANGI</td>
+						<td>DUSUN JONGGRANGAN</td>
+						<td>KETANGI</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343689
+						</td>
+						<td>TK PGRI KETUNDAN</td>
+						<td>SOBOWONO</td>
+						<td>KETUNDAN</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342626
+						</td>
+						<td>TK PGRI KRADENAN 1</td>
+						<td>KRADENAN</td>
+						<td>Kradenan</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834754
+						</td>
+						<td>TK PGRI KRAGILAN</td>
+						<td>JL KAPONAN-KETEP</td>
+						<td>KRAGILAN</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343642
+						</td>
+						<td>TK PGRI KRASAK</td>
+						<td>BOWONGAN</td>
+						<td>KRASAK</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20360594
+						</td>
+						<td>TK PGRI KUNCUP HARAPAN</td>
+						<td>DUSUN  SALAKAN DESA  KALISARI  KEC. TEMPURAN KAB.MAGELANG</td>
+						<td>DESA KALISARI</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343643
+						</td>
+						<td>TK PGRI LOSARI</td>
+						<td>BALAK</td>
+						<td>LOSARI</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343658
+						</td>
+						<td>TK PGRI MADYOSIWI</td>
+						<td>JL.CATAK</td>
+						<td>MADYOCONDRO</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343344
+						</td>
+						<td>TK PGRI MARDI PUTRA</td>
+						<td>JL. KYAI MAKSUM</td>
+						<td>RINGINANOM</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343510
+						</td>
+						<td>TK PGRI MARDISIWI</td>
+						<td>JL. MAGELANG-PURWOREJO KM 8</td>
+						<td>TEMPUREJO</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342914
+						</td>
+						<td>TK PGRI MRANGGEN I</td>
+						<td>GROGOLSARI</td>
+						<td>MRANGGEN</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343624
+						</td>
+						<td>TK PGRI MUNGGANGSARI</td>
+						<td>MUNGGANGSARI</td>
+						<td>MUNGGANGSARI</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834710
+						</td>
+						<td>TK PGRI MUNGKID 2</td>
+						<td>GATAK</td>
+						<td>MUNGKID</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342860
+						</td>
+						<td>TK PGRI MUNTILAN</td>
+						<td>TLATAR</td>
+						<td>Muntilan</td><td>Kec. Muntilan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69890457
+						</td>
+						<td>TK PGRI NGARGOSOKO 1</td>
+						<td>GODEGAN</td>
+						<td>-</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834727
+						</td>
+						<td>TK PGRI NGAWONGGO</td>
+						<td>BULUSARI</td>
+						<td>NGAWONGGO</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343626
+						</td>
+						<td>TK PGRI NGENDROKILO</td>
+						<td>NGENDROKILO</td>
+						<td>NGENDROKILO</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342875
+						</td>
+						<td>TK PGRI PABELAN II</td>
+						<td>PONDOK PABELAN KALANGAN</td>
+						<td>Pabelan</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342876
+						</td>
+						<td>TK PGRI PABELAN III</td>
+						<td>JL. PONDOK PABELAN</td>
+						<td>Pabelan</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342874
+						</td>
+						<td>TK PGRI PAGERSARI</td>
+						<td>JL. KARANGGAWANG</td>
+						<td>PAGERSARI</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834708
+						</td>
+						<td>TK PGRI PAREMONO 3</td>
+						<td>DHOWO</td>
+						<td>PAREMONO</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342877
+						</td>
+						<td>TK PGRI PAREMONO I</td>
+						<td>MERTAN</td>
+						<td>PAREMONO</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342884
+						</td>
+						<td>TK PGRI PROGOWATI</td>
+						<td>PROGOWATI</td>
+						<td>PROGOWATI</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342609
+						</td>
+						<td>TK PGRI PURWOREJO</td>
+						<td>NABIN</td>
+						<td>PURWOREJO</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342590
+						</td>
+						<td>TK PGRI PUSPITA KEMBANGLIMUS</td>
+						<td>JL. DIPONEGORO</td>
+						<td>Kembanglimus</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834707
+						</td>
+						<td>TK PGRI RAMBEANAK</td>
+						<td>JL. BLABAK - MENDUT DSN RAMBEANAK IV</td>
+						<td>Rambeanak</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343661
+						</td>
+						<td>TK PGRI SARASWATI</td>
+						<td>JL.RAYA PIRIKAN NO. 2</td>
+						<td>PIRIKAN</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342778
+						</td>
+						<td>TK PGRI SARATAN</td>
+						<td>TOTAKAN SARATAN</td>
+						<td>SARATAN</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343645
+						</td>
+						<td>TK PGRI SEKOPO</td>
+						<td>KRAGILAN</td>
+						<td>KRAGILAN</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834730
+						</td>
+						<td>TK PGRI SELOMOYO</td>
+						<td>SELOMOYO</td>
+						<td>SELOMOYO</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342584
+						</td>
+						<td>TK PGRI SERASI</td>
+						<td>CANDIREJO</td>
+						<td>Candirejo</td><td>Kec. Borobudur</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343327
+						</td>
+						<td>TK PGRI SIDOAGUNG</td>
+						<td>SOEDIRO</td>
+						<td>KALISARI</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342477
+						</td>
+						<td>TK PGRI SIWI PENI</td>
+						<td>NUSUPAN</td>
+						<td>SALAMAN</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343279
+						</td>
+						<td>TK PGRI SURODADI III</td>
+						<td>TEPUS WETAN</td>
+						<td>SURODADI</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342911
+						</td>
+						<td>TK PGRI TEGALRANDU</td>
+						<td>LOSARI</td>
+						<td>TEGALRANDU</td><td>Kec. Srumbung</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834745
+						</td>
+						<td>TK PGRI TEGALREJO</td>
+						<td>CONDROMULYO</td>
+						<td>TEGALREJO</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343269
+						</td>
+						<td>TK PGRI TEMPURSARI</td>
+						<td>TEMPURSARI</td>
+						<td>Tempursari</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834711
+						</td>
+						<td>TK PGRI TREKO 2</td>
+						<td>JLN. TEMBUS NO. 1 NGROTO</td>
+						<td>Treko</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342871
+						</td>
+						<td>TK PGRI TREKO I</td>
+						<td>JL. RAYA TREKO NO. 1</td>
+						<td>Treko</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342755
+						</td>
+						<td>TK PGRI TRENTEN</td>
+						<td>JL. BANJARAN-TRENTEN</td>
+						<td>TRENTEN</td><td>Kec. Candimulyo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342495
+						</td>
+						<td>TK PGRI TUNAS HARAPAN</td>
+						<td>KALIREJO</td>
+						<td>KALIREJO</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343473
+						</td>
+						<td>TK PGRI TUNAS HARAPAN I</td>
+						<td>DIMAJAR</td>
+						<td>SUMBERARUM</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343429
+						</td>
+						<td>TK PGRI TUNAS MEKAR</td>
+						<td>JL. MAGELANG-PURWOREJO KM 11</td>
+						<td>TANGGULREJO</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343654
+						</td>
+						<td>TK PGRI TUNAS SEDAR</td>
+						<td>JL. SELAMAT NO.2</td>
+						<td>SECANG</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834741
+						</td>
+						<td>TK PGRI TUNAS SEJAHTERA</td>
+						<td>SALAM</td>
+						<td>CANDIRETNO</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342485
+						</td>
+						<td>TK PGRI TUT WURI HANDAYANI</td>
+						<td>SUMBER</td>
+						<td>SUMBER</td><td>Kec. Salaman</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343725
+						</td>
+						<td>TK PGRI V GRABAG</td>
+						<td>LOSARI</td>
+						<td>LOSARI</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343726
+						</td>
+						<td>TK PGRI VI GRABAG</td>
+						<td>NGRANCAH</td>
+						<td>NGRANCAH</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343727
+						</td>
+						<td>TK PGRI VII GRABAG</td>
+						<td>KALIPUCANG</td>
+						<td>KALIPUCANG</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834758
+						</td>
+						<td>TK PGRI VIII GRABAG</td>
+						<td>BANARAN</td>
+						<td>BANARAN</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343640
+						</td>
+						<td>TK PGRI WIROPATI</td>
+						<td>WIROPATI GONDANGSARI</td>
+						<td>WIROPATI</td><td>Kec. Pakis</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343730
+						</td>
+						<td>TK PGRI X GRABAG</td>
+						<td>KEPATRAN</td>
+						<td>BANJARSARI</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342764
+						</td>
+						<td>TK SANTO YUSUP</td>
+						<td>JL. KY IRSYAD NO.24</td>
+						<td>Sumberrejo</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342870
+						</td>
+						<td>TK SENDEN</td>
+						<td>SENDEN</td>
+						<td>SENDEN</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343650
+						</td>
+						<td>TK TRISULA</td>
+						<td>H. ABU BAKRIN SANDANG SARI</td>
+						<td>SECANG</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343735
+						</td>
+						<td>TK TRISULA PERWARI</td>
+						<td>KREKESAN PONGGOL</td>
+						<td>GRABAG</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69890454
+						</td>
+						<td>TK TSABITA QOLBU</td>
+						<td>JL. MAGELANG-JOGJA KM. 12 PALBAPANG</td>
+						<td>-</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343662
+						</td>
+						<td>TK TUNAS HARAPAN</td>
+						<td>KEMBANGAN</td>
+						<td>MADUSARI</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834757
+						</td>
+						<td>TK TUNAS HARAPAN</td>
+						<td>KOMPLEKS SDN GIRIWETAN</td>
+						<td>GIRIWETAN</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343509
+						</td>
+						<td>TK TUNAS HARAPAN 2</td>
+						<td>TEMPURSARI</td>
+						<td>SUMBERARUM</td><td>Kec. Tempuran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20342895
+						</td>
+						<td>TK TUNAS KUSUMA BANGSA</td>
+						<td>JL. LETNAN TUKIYAT</td>
+						<td>BUMIREJO</td><td>Kec. Mungkid</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343660
+						</td>
+						<td>TK TUNAS MUDA</td>
+						<td>JL. RAYA SECANG - TEMANGGUNG</td>
+						<td>NGABEAN</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343593
+						</td>
+						<td>TK TUNAS MULIA</td>
+						<td>BANTENGAN</td>
+						<td>BANTENGAN</td><td>Kec. Kajoran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69924116
+						</td>
+						<td>TK TWINQ KIDS SCHOOL</td>
+						<td>JL MAYOR HUMAN GG DURIAN</td>
+						<td>Bulurejo</td><td>Kec. Mertoyudan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343089
+						</td>
+						<td>TK WIJAYA KUSUMA</td>
+						<td>KEBONLEGI</td>
+						<td>KEBONLEGI</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834733
+						</td>
+						<td>TK WIRATAMA</td>
+						<td>SUDIMORO</td>
+						<td>TANJUNGSARI</td><td>Kec. Windusari</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							20343579
+						</td>
+						<td>TK WIYATA DHARMA RINI</td>
+						<td>JL. RAYA KAJORAN</td>
+						<td>KAJORAN</td><td>Kec. Kajoran</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834718
+						</td>
+						<td>TKIT AL MUHAJIRIN</td>
+						<td>JENAWI</td>
+						<td>Krogowanan</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834743
+						</td>
+						<td>TKIT AL-FURQON</td>
+						<td>JL. MAGELANG - KOPENG KM- 7</td>
+						<td>PURWOSARI</td><td>Kec. Tegalrejo</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834715
+						</td>
+						<td>TKIT AN NUUR</td>
+						<td>GADING LEGOK</td>
+						<td>PODOSOKO</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69890456
+						</td>
+						<td>TKIT AS-SALIMA</td>
+						<td>DUSUN KRAJAN</td>
+						<td>Kaliangkrik</td><td>Kec. Kaliangkrik</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834761
+						</td>
+						<td>TKIT AT-TAQWA</td>
+						<td>PONGGOL 2</td>
+						<td>GRABAG</td><td>Kec. Grabag</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69890460
+						</td>
+						<td>TKIT DARURRAYYAN</td>
+						<td>JL PIRIKAN GRABAG KM 1 DUKUH PIRIKAN</td>
+						<td>-</td><td>Kec. Secang</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr><tr>
+						<td nowrap align='center'>
+							69834717
+						</td>
+						<td>TKK SANTA MARIA</td>
+						<td>BANYUTEMUMPANG</td>
+						<td>KROGOWANAN</td><td>Kec. Sawangan</td><td>Prop. Jawa Tengah</td><td>TK</td><td>Swasta</td></tr></tbody>
+		 		</table>
+
