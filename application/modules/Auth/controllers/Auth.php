@@ -19,6 +19,7 @@ class Auth extends CI_Controller {
 		$this->load->helper('alert');
 		$this->load->helper('email');
 		$this->load->helper('wa');
+		$this->load->helper('generatecaptcha');
 
 		// $this->sms = $this->load->database('sms', TRUE);
 
@@ -32,90 +33,68 @@ class Auth extends CI_Controller {
 
 	public function index(){
 
-		$this->session->sess_destroy();
-
-
-
-		$where = "nama_role = 'User'";
-
-		$dataRole = $this->MasterData->getDataWhere('tbl_role',$where)->row();
-
-
-
+		if ($this->session->userdata('logs') != null) {
+			$this->session->sess_destroy();
+		}
+			
+		$captcha = generate_captcha(150, 50, 20);
 		$data = array(
-
-			'id_role' => $dataRole->id_role
-
+			'img_captcha' => $captcha['image']
 		);
 
 
+		// $where = "nama_role = 'User'";
+		// $dataRole = $this->MasterData->getDataWhere('tbl_role',$where)->row();
+
+
+		// $data = array(
+		// 	'id_role' => $dataRole->id_role
+		// );
 
 		$this->load->view('index', $data);
 
 	}
 
 
-
 	public function cek_login() {
 
-		$username = htmlspecialchars_decode($this->input->post('username', TRUE));
-
-		$password = htmlspecialchars_decode($this->input->post('password', TRUE));
-
+		$username = html_escape(htmlspecialchars_decode($this->input->post('username', TRUE)));
+		$password = html_escape(htmlspecialchars_decode($this->input->post('password', TRUE)));
 		$pass = md5($password);
-
-		// $where = array(
-
-		// 			'username' => $username,
-
-		// 			'password' => md5($password)
-
-		// 		);
-
-		$where = "username = '$username' AND password = '$pass'";
-
-		$hasil = $this->MasterData->getWhereDataAll('tbl_user',$where);
-
 		
+		$ver_captcha = $this->input->post('captcha', TRUE);
 
-		if ($hasil->num_rows() == 1) {
+		if ($ver_captcha == $_SESSION['captchaCode']) {
 
-			$id_role = $hasil->row()->id_role;
+			$where = "username = '$username' AND password = '$pass'";
+			$hasil = $this->MasterData->getWhereDataAll('tbl_user',$where);
+		
+			if ($hasil->num_rows() == 1) {
 
+				$id_role = $hasil->row()->id_role;
 
+				$where = "id_role = $id_role";
+				$dataRole = $this->MasterData->getWhereDataAll('tbl_role',$where)->row();
+				$role = $dataRole->nama_role;
+				
+				$sess_data['id_user'] = $hasil->row()->id_user;
+				$sess_data['nama_user'] = $hasil->row()->nama_user;
+				$sess_data['username'] = $hasil->row()->username;
+				$sess_data['role'] = $role;
+				$sess_data['logs'] = 'Sim_'.$role;
 
-			$where = "id_role = $id_role";
+				$this->session->set_userdata($sess_data);
 
-			$dataRole = $this->MasterData->getWhereDataAll('tbl_role',$where)->row();
+				$datas = ['success' => true, 'role' => $role, 'link' => base_url($role)];
 
-			$role = $dataRole->nama_role;
-
-			
-
-			$sess_data['id_user'] = $hasil->row()->id_user;
-
-			$sess_data['nama_user'] = $hasil->row()->nama_user;
-
-			$sess_data['username'] = $hasil->row()->username;
-
-			$sess_data['role'] = $role;
-			$sess_data['logs'] = 'Sim_'.$role;
-
-			$this->session->set_userdata($sess_data);
-
-			
-
-			$datas = ['success' => true, 'role' => $role, 'link' => base_url($role)];
-
+			} else {
+				$captcha = generate_captcha(150, 50, 20);
+				$datas = ['success' => false, 'alert' => 'Username atau password salah.', 'img_captcha' => $captcha['image']];
+			}
+		} else {
+			$captcha = generate_captcha(150, 50, 20);
+			$datas = ['success' => false, 'alert' => 'Captcha tidak cocok.', 'img_captcha' => $captcha['image']];
 		}
-
-		else {
-
-			$datas = ['success' => false];
-
-		}
-
-
 
 		echo json_encode($datas);
 

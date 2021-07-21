@@ -54,11 +54,20 @@
 
 <![endif]-->
 
+    <style>
+        #img_captcha img{
+            /* border-radius: 100px; */
+            border: 1px solid #a6445d !important;
+            width: 100%;
+            height: 50px;
+        }
+    </style>
+
 </head>
 
 
 
-<body>
+<body oncontextmenu="return false;">
 
     <!-- ============================================================== -->
 
@@ -91,39 +100,30 @@
                 <form class="form-horizontal form-material" id="loginform">
 
                     <a href="javascript:void(0)" class="text-center db">
-
                         <img width="100" src="<?= base_url() ?>assets/assets/images/logo/logo-metro.png" alt="Home" /><br/>
-
                         <label style="font-size: 25pt; color: grey"><b>SiMETRO</b></label><br>
-
                         <label style="font-size: 15pt; color: grey">KABUPATEN MAGELANG</label>
-
                     </a>
-
-
 
                     <?= $this->session->flashdata('alert') ?>
 
-
-
                     <div class="form-group m-t-40">
-
                         <div class="col-xs-12">
-
                             <input class="form-control" type="text" name="username" id="username" required="" placeholder="Username" style="text-align: center;">
-
                         </div>
-
                     </div>
 
                     <div class="form-group">
-
                         <div class="col-xs-12">
-
                             <input class="form-control" type="password" name="password" id="password" required="" placeholder="Password" style="text-align: center;">
-
                         </div>
+                    </div>
 
+                    <div class="row">
+                        <div class="col-md-6 m-b-10" id="img_captcha"><?= $img_captcha; ?></div>
+                        <div class="validate-input m-b-10 col-md-6" data-validate="Captcha is required">
+                            <input class="form-control text-center" type="text" id="captcha" name="captcha" placeholder="Captcha" maxlength="4" style="padding: 10px; font-size: 16pt !important;" required="">
+                        </div>
                     </div>
 
                     <!-- <div class="form-group">
@@ -143,13 +143,9 @@
                     </div> -->
 
                     <div class="form-group text-center m-t-20">
-
                         <div class="col-xs-12">
-
                             <button class="btn btn-warning btn-lg btn-block text-uppercase waves-effect waves-light" type="submit">Log In</button>
-
                         </div>
-
                     </div>
 
 
@@ -254,7 +250,7 @@
 
 
 
-                        <input type="hidden" name="id_role" id="id_role" value="<?= $id_role ?>">
+                        <input type="hidden" name="id_role" id="id_role" value="<?//= $id_role ?>">
 
 
 
@@ -344,11 +340,11 @@
 
                                 <select id="role" name="id_role" class="form-control">
 
-                                    <?php foreach ($data_role as $role) { ?>
+                                    <?php //foreach ($data_role as $role) { ?>
 
-                                        <option id="<?= $role->id_role ?>" value="<?=$role->id_role ?>"><?=$role->role ?></option>
+                                        <option id="<?//= $role->id_role ?>" value="<?//=$role->id_role ?>"><?//=$role->role ?></option>
 
-                                    <?php } ?>
+                                    <?php //} ?>
 
                                 </select>
 
@@ -473,7 +469,7 @@
     <!-- ======================================================= -->
 
     <script src="<?= base_url() ?>assets/assets/js/auth_log.js"></script>
-
+    <script src="<?= base_url() ?>assets/assets/js/block.js"></script>
 
 </body>
 

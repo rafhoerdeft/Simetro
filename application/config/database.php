@@ -76,8 +76,8 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'simetro_usernya',
-	'password' => 'EqUU1gwwfMvt',
+	'username' => 'root',
+	'password' => '',
 	'database' => 'simetro_datanya',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
@@ -95,25 +95,25 @@ $db['default'] = array(
 	'save_queries' => TRUE
 );
 
-$db['sms'] = array(
-	'dsn'	=> '',
-	'hostname' => '192.168.5.39',
-	'username' => 'useraspirasi',
-	'password' => 'M7k8zYLxpCcKyZbh',
-	'database' => 'sms',
-	'dbdriver' => 'mysqli',
-	'dbprefix' => '',
-	'pconnect' => FALSE,
-	'db_debug' => (ENVIRONMENT !== 'production'),
-	'cache_on' => FALSE,
-	'cachedir' => '',
-	'char_set' => 'utf8',
-	'dbcollat' => 'utf8_general_ci',
-	'swap_pre' => '',
-	'encrypt' => FALSE,
-	'compress' => FALSE,
-	'stricton' => FALSE,
-	'failover' => array(),
-	'save_queries' => TRUE
-);
+// $db['sms'] = array(
+// 	'dsn'	=> '',
+// 	'hostname' => '192.168.5.39',
+// 	'username' => 'useraspirasi',
+// 	'password' => 'M7k8zYLxpCcKyZbh',
+// 	'database' => 'sms',
+// 	'dbdriver' => 'mysqli',
+// 	'dbprefix' => '',
+// 	'pconnect' => FALSE,
+// 	'db_debug' => (ENVIRONMENT !== 'production'),
+// 	'cache_on' => FALSE,
+// 	'cachedir' => '',
+// 	'char_set' => 'utf8',
+// 	'dbcollat' => 'utf8_general_ci',
+// 	'swap_pre' => '',
+// 	'encrypt' => FALSE,
+// 	'compress' => FALSE,
+// 	'stricton' => FALSE,
+// 	'failover' => array(),
+// 	'save_queries' => TRUE
+// );
 

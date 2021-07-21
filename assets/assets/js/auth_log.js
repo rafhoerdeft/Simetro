@@ -84,22 +84,25 @@ function showCancelMessage() {
 $('#loginform').submit(function(){
     var username = $('#username').val();
     var password = $('#password').val();
+    var captcha  = $('#captcha').val();
+    if (username != '' && password != '' && captcha != '') {
+        $.ajax({
+            type : "POST",
+            url  : "Auth/cek_login",
+            dataType : "json",
+            data : $(this).serialize(),
+            success: function(data){
 
-    $.ajax({
-        type : "POST",
-        url  : "Auth/cek_login",
-        dataType : "json",
-        data : {username:username , password:password},
-        success: function(data){
-
-            if(data.success){
-                window.location = data.link;
-            } else {
-                showFailedMessage('Username atau Password Salah!');
+                if(data.success){
+                    window.location = data.link;
+                } else {
+                    showFailedMessage(data.alert);
+                    $('#img_captcha').html(data.img_captcha);
+                }
             }
-        }
-    });
+        });
 
-    return false;
+        return false;
+    }
 
 });
