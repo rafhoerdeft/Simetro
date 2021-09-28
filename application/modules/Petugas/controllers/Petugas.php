@@ -14,7 +14,7 @@ class Petugas extends CI_Controller {
 		$this->load->helper('terbilang');
 		$this->sms = $this->load->database('sms', TRUE);
 
-		if ($this->session->userdata('role') != 'Petugas') {
+		if ($this->session->userdata('role') != '') {
 			redirect('Auth');
 		}
 
