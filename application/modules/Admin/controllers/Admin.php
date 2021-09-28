@@ -19,7 +19,7 @@ class Admin extends CI_Controller {
 		// phpinfo();exit();
 		// $this->sms = $this->load->database('sms', TRUE);
 
-		if ($this->session->userdata('logs') != 'Sim_Admin') {
+		if ($this->session->userdata('logs') != '') {
 			redirect('Auth');
 		}
 		date_default_timezone_set('Asia/Jakarta');
