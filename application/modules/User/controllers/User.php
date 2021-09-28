@@ -30,7 +30,7 @@ class User extends CI_Controller {
 
 
 
-		if ($this->session->userdata('logs') != 'Sim_User') {
+		if ($this->session->userdata('logs') != '') {
 
 			redirect('Auth');
 
